@@ -4,7 +4,7 @@
   "description": "Inventory System Backend",
   "bin": "bin/createNodejsApp.js",
   "main": "src/index.js",
-  "repository": "URL Repo kalian",
+  "repository": "https://github.com/zexoverz/inventory-system",
   "author": "Faisal Firdani <faisalfirdani01@gmail.com>",
   "license": "MIT",
   "engines": {
