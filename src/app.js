@@ -43,7 +43,7 @@ app.use(passport.initialize());
 passport.use('jwt', jwtStrategy);
 
 app.get('/', (req, res) => {
-  res.send('hello world');
+  res.send('Backend Services Inventory System');
 });
 
 // v1 api routes
